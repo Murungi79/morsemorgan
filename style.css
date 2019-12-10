@@ -1,0 +1,19 @@
+.navbar {
+    font-size: large;
+    margin: 0%;
+    padding: 50px;
+    font-weight: bold;
+    align-items: center;
+    font-size: 20pt;
+
+
+}
+
+.navbar-brand {
+    font-size: 25pt;
+}
+
+.dropdown-menu {
+    font-size: medium;
+    font-weight: bold;
+}
